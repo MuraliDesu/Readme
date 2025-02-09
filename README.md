@@ -22,3 +22,35 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Computer Sc
 - Database Systems: MySQL, MongoDB
 - Machine Learning: TensorFlow, scikit-learn
 - Data Analysis: Pandas, NumPy, Matplotlib
+
+## 💻 **Projects**  
+
+### 1. **Online Grocery System**  
+```plaintext
+- Technologies: TypeScript, C#, HTML, SCSS, Angular, .NET, MongoDB
+- Description: Developed a responsive web application for online grocery shopping, ensuring a seamless user experience.
+- Key Features: Integrated frontend (Angular) and backend (.NET C#) with MongoDB for efficient data management.
+
+### 2. **Machine Learning Model for Predictive Analysis**
+- Technologies: TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib
+- Description: Built and trained a predictive model to analyze datasets and forecast trends with 85% accuracy.
+- Key Features: Cleaned and preprocessed data, and visualized results using Matplotlib.
+
+### 3. **Personal Portfolio Website**
+- Technologies: React, Node.js, MongoDB, AWS
+- Description: Designed and deployed a dynamic portfolio website with responsive design principles.
+- Key Features: Hosted on AWS and managed version control using Git/GitHub.
+
+## 🏅 **Achievements**
+
+- Graduated with Cum Laude honors.
+- Selected for the President’s List at the University of Central Missouri.
+
+
+## 📬 Let’s Connect!
+-I’m always open to collaborating on exciting projects, discussing new ideas, or exploring opportunities. Feel free to reach out to me:
+- 📧 Email: desumuralikoushik@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muralikoushikdesu/
+
+Thanks for visiting my profile! 😊
+Let’s build something amazing together!
