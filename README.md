@@ -23,6 +23,8 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Computer Sc
 - Machine Learning: TensorFlow, scikit-learn
 - Data Analysis: Pandas, NumPy, Matplotlib
 
+---
+
 ## 💻 **Projects**  
 
 ### 1. **Online Grocery System**  
@@ -41,16 +43,21 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Computer Sc
 - Description: Designed and deployed a dynamic portfolio website with responsive design principles.
 - Key Features: Hosted on AWS and managed version control using Git/GitHub.
 
+---
+
 ## 🏅 **Achievements**
 
 - Graduated with Cum Laude honors.
 - Selected for the President’s List at the University of Central Missouri.
 
+---
 
 ## 📬 Let’s Connect!
 -I’m always open to collaborating on exciting projects, discussing new ideas, or exploring opportunities. Feel free to reach out to me:
 - 📧 Email: desumuralikoushik@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/muralikoushikdesu/
+
+---
 
 Thanks for visiting my profile! 😊
 Let’s build something amazing together!
