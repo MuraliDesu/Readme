@@ -59,4 +59,5 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Computer Sc
 ---
 
 **Thanks for visiting my profile! 😊
+
 Let’s build something amazing together!**
