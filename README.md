@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Computer Sc
 ## 💻 **Projects**  
 
 ### 1. **Online Grocery System**  
-```plaintext
 - Technologies: TypeScript, C#, HTML, SCSS, Angular, .NET, MongoDB
 - Description: Developed a responsive web application for online grocery shopping, ensuring a seamless user experience.
 - Key Features: Integrated frontend (Angular) and backend (.NET C#) with MongoDB for efficient data management.
