@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Computer Sc
 ---
 
 ## 📬 Let’s Connect!
--I’m always open to collaborating on exciting projects, discussing new ideas, or exploring opportunities. Feel free to reach out to me:
+**I’m always open to collaborating on exciting projects, discussing new ideas, or exploring opportunities. Feel free to reach out to me:**
 - 📧 Email: desumuralikoushik@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/muralikoushikdesu/
 
