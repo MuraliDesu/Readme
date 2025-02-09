@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Computer Sc
 ---
 
 ## 🛠️ **Technical Skills**  
-```plaintext
 - Programming Languages: Python, Java, C, C++, JavaScript, SQL
 - Web Development: HTML, CSS, React, Node.js
 - Tools & Platforms: Git/GitHub, Docker, AWS, VS Code, IntelliJ IDEA
